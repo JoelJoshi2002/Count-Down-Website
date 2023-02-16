@@ -27,3 +27,5 @@ This website was created by the following MBCCET students:
 Cyril C Thomas :https://github.com/10cyrilc
 
 Alan B John: https://github.com/aln6
+
+Joel Joshi: https://github.com/JoelJoshi2002
