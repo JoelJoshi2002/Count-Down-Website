@@ -25,4 +25,5 @@ The website is intended to showcase our skills and creativity during the hackath
 This website was created by the following MBCCET students:
 
 Cyril C Thomas :https://github.com/10cyrilc
+
 Alan B John: https://github.com/aln6
